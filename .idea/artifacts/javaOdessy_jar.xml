@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaOdessy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaOdessy_jar</output-path>
+    <root id="archive" name="javaOdessy_jar.jar">
+      <element id="archive" name="javaOdessy.jar">
+        <element id="module-output" name="javaOdessy" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
